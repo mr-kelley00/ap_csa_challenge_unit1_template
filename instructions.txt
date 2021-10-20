@@ -1,4 +1,4 @@
-#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.25 !#
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.33 !#
 
 
 This challenge requires an understanding of the Java topics learned in Unit 1.
@@ -9,7 +9,7 @@ Write a Java program that will complete the task described in the scenario.
 Scenario 0 -- Game Programming -- Calculating Damage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Write a program that calculates the amount of damage dealt to an enemy monster
-during one round of combat in a game.  One round of combat lasts 2 seconds.  
+during one round of combat in a game.  One round of combat lasts 3 seconds.  
 
 The program should do the following:
 
@@ -25,7 +25,8 @@ The program has the following requirements:
 -- Class Name: DamageDealt
 
 Example Output:
-You have dealt 35 damage with the sword.
+You have dealt 313 damage with the sword.
+You dealt 156.5 damage per second with the sword.
 
 
 
