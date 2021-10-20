@@ -1,4 +1,25 @@
-Advanced Placement Computer Science A -- Unit 1 Challenge Instructions
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions !#
 
-This challenge will require an understanding of the Java topics learned in Unit 1.
+
+This challenge requires an understanding of the Java topics learned in Unit 1.
+There are XX scenarios described below.  Choose one of them.
+Write a Java program that will complete the task described in the scenario. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Scenario 0 -- Game Programming -- Calculating Damage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+You have to write a program that calculates the amount of damage dealt to an 
+enemy.  
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Scenario 1 -- Financial Programming -- Calculating Loans
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Scenario 2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
