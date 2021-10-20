@@ -24,8 +24,11 @@ The program should do the following:
 The program has the following requirements:
 -- Class Name: DamageDealt
 -- There should be at least one empty line between user input and the next question. 
+-- Minimum of 10 separate commits with version numbers and summary / descriptions.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+There are two examples of correct program output below to help guide you. 
+
 Example Output 0:
 
 How many attacks will the player make?
@@ -43,7 +46,7 @@ goblin
 You have dealt 310 damage with the sword to the goblin.
 You dealt 77.5 damage per second with the sword to the goblin.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 Example Output 1:
 
 Number of attacks?
@@ -60,7 +63,6 @@ fireball
 
 The dragon takes 127 damage from the fireball. 
 The damage per second is 31.75 using the fireball to attack the dragon.
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -92,8 +94,11 @@ The program should do the following:
 The program has the following requirements:
 -- Class Name: SavingsCalculator
 -- There should be at least one empty line between user input and the next question. 
+-- Minimum of 10 separate commits with version numbers and summary / descriptions.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+There are two examples of correct program output below to help guide you. 
+
 Example Output 0:
 
 Please type the 12-digit account number:
@@ -109,8 +114,26 @@ Enter the current interest rate in percentage format.  Do not include the % plea
 1.23
 
 The opening balance for Account #0123456789012 is $123542.45.
-This account earned $1519.572135
+This account earned $126.54 in interest with a new balance of $123668.99. 
+Charles Barles, thank you for being a client and a friend of 1st World Bank.
 
+Example Output 1:
+
+Enter the account number now.  12-digits please:
+000000000001
+
+Account Owner's Name:
+Dent Arthur Dent
+
+Account #000000000001 Opening Balance. No $'s or ,'s or else I'll be sad:
+1.45
+
+Yearly Interest Rate Percentage. No % symbol or I may crash:
+123.4
+
+Account #000000000001 Opening Balance is $1.45. 
+$0.15 earned interest.  New Balance: $1.60.
+Thank you, Dent Arthur Dent, for letting 42nd Street Bank be YOUR bank!
 
 
 
