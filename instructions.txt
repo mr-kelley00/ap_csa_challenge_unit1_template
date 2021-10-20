@@ -1,8 +1,15 @@
-#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.60 !#
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.99 !#
 
 This challenge requires an understanding of the Java topics learned in Unit 1.
-There are XX scenarios described below.  Choose two of them.
+
+There are two scenarios described below.  
+Choose one of them to complete.
+You can complete both for extra credit.  
+
 Write a Java program that will complete the task described in the scenario. 
+
+Use the Unit1Challenge.java file to write your code.  
+Rename it to match the class requirement for each scenario.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 0 -- Game Programming -- Calculating Damage
@@ -135,11 +142,6 @@ Account #000000000001 Opening Balance is $1.45.
 $0.15 earned interest.  New Balance: $1.60.
 Thank you, Dent Arthur Dent, for letting 42nd Street Bank be YOUR bank!
 
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Scenario 2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
