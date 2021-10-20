@@ -1,4 +1,4 @@
-#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.33 !#
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.40 !#
 
 This challenge requires an understanding of the Java topics learned in Unit 1.
 There are XX scenarios described below.  Choose two of them.
@@ -7,30 +7,65 @@ Write a Java program that will complete the task described in the scenario.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 0 -- Game Programming -- Calculating Damage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Write a program that calculates the amount of damage dealt to an enemy monster
-during one round of combat in a game.  One round of combat lasts 3 seconds.  
+Calculate the amount of damage dealt to an enemy monster during one round of 
+combat in a game.  One round of combat lasts 4 seconds.  
 
 The program should do the following:
 
 -- Ask the user for the name of the weapon or attack.  
+-- Ask the user for the name of the monster.
 -- Ask the user for the number of attacks to make. 
 -- Ask the user for the amount of damage dealt per attack.
 -- Calculate the total damage dealt in the round of combat.
--- Display a message indicating the amount of damage dealt.
+-- Display a message indicating the amount of damage dealt. 
 -- Calculate, with precision, the damage dealt per second.
 -- Display a message indicating the amount of damage dealt per second.
 
 The program has the following requirements:
 -- Class Name: DamageDealt
 
-Example Output:
-You have dealt 313 damage with the sword.
-You dealt 104.33333 damage per second with the sword.
+Example Output 0:
+How many attacks will the player make?
+5
+How much damage will each attack do?
+62 
+What is the weapon or attack called?
+sword
+What is the name of the enemy?
+goblin
+
+
+You have dealt 310 damage with the sword to the goblin.
+You dealt 77.5 damage per second with the sword to the goblin.
+
+Example Output 1:
+Number of attacks?
+4
+Damage per attack?
+17
+What is the weapon or attack called?
+axe
+What is the name of the enemy?
+dragon
+
+The dragon takes 127 damage from the axe. 
+The damage per second is 31.75 using the axe to attack the dragon.
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 1 -- Financial Programming -- Calculating Loans
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Write a program to calculate the monthly simple interest on a savings account.
 
+The program should do the following: 
+-- Ask the user for an  
+-- Ask the user for the name of the monster.
+-- Ask the user for the number of attacks to make. 
+-- Ask the user for the amount of damage dealt per attack.
+-- Calculate the total damage dealt in the round of combat.
+-- Display a message indicating the amount of damage dealt. 
+-- Calculate, with precision, the damage dealt per second.
+-- Display a message indicating the amount of damage dealt per second.
 
 The program has the following requirements:
 -- Class Name: LoanRepayment
