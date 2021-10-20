@@ -8,8 +8,19 @@ Write a Java program that will complete the task described in the scenario.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 0 -- Game Programming -- Calculating Damage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-You have to write a program that calculates the amount of damage dealt to an 
-enemy.  
+Write a program that calculates the amount of damage dealt to an enemy monster
+during one round of combat in a turn-based game.
+
+The program should do the following:
+
+-- Ask the user for the number of attacks to make. 
+-- Ask the user for the amount of damage dealt per attack.
+-- Calculate the total damage dealt
+  
+The program has the following requirements:
+-- Class Name: DamageDealt
+
+
 
 
 
