@@ -1,4 +1,4 @@
-#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions !#
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.25 !#
 
 
 This challenge requires an understanding of the Java topics learned in Unit 1.
@@ -13,6 +13,7 @@ during one round of combat in a game.  One round of combat lasts 2 seconds.
 
 The program should do the following:
 
+-- Ask the user for the name of the weapon or attack.  
 -- Ask the user for the number of attacks to make. 
 -- Ask the user for the amount of damage dealt per attack.
 -- Calculate the total damage dealt in the round of combat.
@@ -20,9 +21,12 @@ The program should do the following:
 -- Calculate, with precision, the damage dealt per second.
 -- Display a message indicating the amount of damage dealt per second.
 
-  
 The program has the following requirements:
 -- Class Name: DamageDealt
+
+Example Output:
+You have dealt 35 damage with the sword.
+
 
 
 
