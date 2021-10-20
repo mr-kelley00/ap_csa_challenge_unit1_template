@@ -1,4 +1,4 @@
-#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.44 !#
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.50 !#
 
 This challenge requires an understanding of the Java topics learned in Unit 1.
 There are XX scenarios described below.  Choose two of them.
@@ -23,20 +23,22 @@ The program should do the following:
 
 The program has the following requirements:
 -- Class Name: DamageDealt
+-- There should be at least one empty line between user input and the next question. 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Example Output 0:
 
-
 How many attacks will the player make?
 5
+
 How much damage will each attack do?
 62 
+
 What is the weapon or attack called?
 sword
+
 What is the name of the enemy?
 goblin
-
 
 You have dealt 310 damage with the sword to the goblin.
 You dealt 77.5 damage per second with the sword to the goblin.
@@ -44,19 +46,20 @@ You dealt 77.5 damage per second with the sword to the goblin.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Example Output 1:
 
-
 Number of attacks?
 4
+
 Damage per attack?
 17
+
 What's getting hit?
 dragon
+
 What's it getting hit with?
 fireball
 
 The dragon takes 127 damage from the fireball. 
 The damage per second is 31.75 using the fireball to attack the dragon.
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 1 -- Financial Programming -- Calculating Loans
@@ -66,16 +69,34 @@ Write a program to calculate the monthly simple interest on a savings account.
 The program should do the following: 
 -- Ask the user for a 12 digit account number.  
 -- Ask the user for the name of the account owner.
--- Ask the user for the opening balance of the account. 
+-- Ask the user for the opening balance of the correct account number. 
 -- Ask the user for the interest rate percentage but exclude the % symbol.
 -- Convert the interest rate percentage to a decimal.  
--- Calculate the total damage dealt in the round of combat.
--- Display a message indicating the amount of damage dealt. 
--- Calculate, with precision, the damage dealt per second.
--- Display a message indicating the amount of damage dealt per second.
+-- Calculate the simple monthly interest on the account balance. 
+-- Add the interest to the opening account balance. 
+-- Display a message indicating the opening balance, amount of interest earned,
+   new balance, and account number.
+-- Display a message thanking the owner for their business. 
 
 The program has the following requirements:
--- Class Name: LoanRepayment
+-- Class Name: SavingsCalculator
+-- There should be at least one empty line between user input and the next question. 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Example Output 0:
+
+Please type the 12-digit account number:
+0123456789012
+
+What is the name of the account owner?
+Charles Barles
+
+Enter the opening balance for Account #0123456789012.  Do not include $ or , please:
+123542.45
+
+Enter the current interest rate in percentage format.  Do not include the % please:
+1.23
+
 
 
 
