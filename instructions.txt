@@ -1,8 +1,7 @@
 #! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.33 !#
 
-
 This challenge requires an understanding of the Java topics learned in Unit 1.
-There are XX scenarios described below.  Choose one of them.
+There are XX scenarios described below.  Choose two of them.
 Write a Java program that will complete the task described in the scenario. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -26,16 +25,17 @@ The program has the following requirements:
 
 Example Output:
 You have dealt 313 damage with the sword.
-You dealt 156.5 damage per second with the sword.
-
-
-
-
-
+You dealt 104.33333 damage per second with the sword.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 1 -- Financial Programming -- Calculating Loans
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+The program has the following requirements:
+-- Class Name: LoanRepayment
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 2
