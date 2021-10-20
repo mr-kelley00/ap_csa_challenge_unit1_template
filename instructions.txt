@@ -1,4 +1,4 @@
-#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.50 !#
+#! Advanced Placement Computer Science A -- Unit 1 Challenge Instructions v0.60 !#
 
 This challenge requires an understanding of the Java topics learned in Unit 1.
 There are XX scenarios described below.  Choose two of them.
@@ -60,22 +60,33 @@ fireball
 
 The dragon takes 127 damage from the fireball. 
 The damage per second is 31.75 using the fireball to attack the dragon.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Scenario 1 -- Financial Programming -- Calculating Loans
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Write a program to calculate the monthly simple interest on a savings account.
+Use the following formula for simple interest:
+
+I = Prt 
+
+In this forumla the variables represent the following values: 
+I = interest
+P = principal (opening balance)
+r = rate of interest per year (as a decimal)
+t = time (convert 1 month to into years as a decimal)
 
 The program should do the following: 
 -- Ask the user for a 12 digit account number.  
 -- Ask the user for the name of the account owner.
 -- Ask the user for the opening balance of the correct account number. 
--- Ask the user for the interest rate percentage but exclude the % symbol.
+-- Ask the user for the yearly interest rate percentage but exclude the % symbol.
 -- Convert the interest rate percentage to a decimal.  
 -- Calculate the simple monthly interest on the account balance. 
 -- Add the interest to the opening account balance. 
--- Display a message indicating the opening balance, amount of interest earned,
-   new balance, and account number.
+-- Display a message indicating the opening balance and the account number.
+-- Display a message indicating the amount of interest earned and the new balance.
 -- Display a message thanking the owner for their business. 
 
 The program has the following requirements:
@@ -96,6 +107,9 @@ Enter the opening balance for Account #0123456789012.  Do not include $ or , ple
 
 Enter the current interest rate in percentage format.  Do not include the % please:
 1.23
+
+The opening balance for Account #0123456789012 is $123542.45.
+This account earned $1519.572135
 
 
 
