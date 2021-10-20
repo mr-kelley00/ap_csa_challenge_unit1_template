@@ -17,6 +17,8 @@ The program should do the following:
 -- Ask the user for the amount of damage dealt per attack.
 -- Calculate the total damage dealt in the round of combat.
 -- Display a message indicating the amount of damage dealt.
+-- Calculate, with precision, the damage dealt per second.
+-- Display a message indicating the amount of damage dealt per second.
 
   
 The program has the following requirements:
